@@ -1,0 +1,17 @@
+# --- Python Environment ---
+venv/
+env/
+.env
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+
+# --- Data & Models ---
+data/*.csv
+models/*.pkl
+models/*.joblib
+
+# --- IDE & OS ---
+.vscode/
+.DS_Store
